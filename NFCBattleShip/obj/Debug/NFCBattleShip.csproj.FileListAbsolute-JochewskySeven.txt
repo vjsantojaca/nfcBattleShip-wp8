@@ -1,0 +1,69 @@
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip.dll
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip.pdb
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\AppManifest.xaml
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip_Debug_AnyCPU.xap
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\App.g.cs
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\MainPage.g.cs
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.g.resources
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.Resources.AppResources.resources
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.csproj.GenerateResource.Cache
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.dll
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.pdb
+c:\users\victor\documents\visual studio 2012\Projects\NFCBattleShip\NFCBattleShip\obj\Debug\XapCacheFile.xml
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip.dll
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip.pdb
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\AppManifest.xaml
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip_Debug_AnyCPU.xap
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NdefLibrary.dll
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\App.g.cs
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\ColocarBarcosPage.g.cs
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\FinPage.g.cs
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\InfoJuegoPage.g.cs
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\JuegoPage.g.cs
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.g.resources
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.Resources.AppResources.resources
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.csproj.GenerateResource.Cache
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.dll
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.pdb
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\XapCacheFile.xml
+C:\Users\Victor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.csprojResolveAssemblyReference.cache
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip.dll
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip.pdb
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\AppManifest.xaml
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NFCBattleShip_Debug_AnyCPU.xap
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Debug\NdefLibrary.dll
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.csprojResolveAssemblyReference.cache
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\App.g.cs
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\ColocarBarcosPage.g.cs
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\FinPage.g.cs
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\InfoJuegoPage.g.cs
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\JuegoPage.g.cs
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.g.resources
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.Resources.AppResources.resources
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.csproj.GenerateResource.Cache
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.dll
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\NFCBattleShip.pdb
+C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Debug\XapCacheFile.xml

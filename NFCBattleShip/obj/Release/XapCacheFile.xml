@@ -1,0 +1,20 @@
+﻿<xapCache source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Release\NFCBattleShip_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="07/06/2013 4:03:25">
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\obj\Release\NFCBattleShip.dll" archivePath="NFCBattleShip.dll" lastWriteTime="07/06/2013 4:03:23" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="25/05/2013 13:28:49" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="25/05/2013 13:28:49" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="25/05/2013 13:28:49" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="25/05/2013 13:28:49" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="25/05/2013 13:28:49" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Resources\fondo.png" archivePath="Resources\fondo.png" lastWriteTime="01/06/2013 11:59:54" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Resources\fondoBarco.png" archivePath="Resources\fondoBarco.png" lastWriteTime="01/06/2013 18:57:48" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Toolkit.Content\ApplicationBar.Cancel.png" archivePath="Toolkit.Content\ApplicationBar.Cancel.png" lastWriteTime="04/06/2013 3:40:26" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Toolkit.Content\ApplicationBar.Check.png" archivePath="Toolkit.Content\ApplicationBar.Check.png" lastWriteTime="04/06/2013 3:40:26" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Toolkit.Content\ApplicationBar.Delete.png" archivePath="Toolkit.Content\ApplicationBar.Delete.png" lastWriteTime="04/06/2013 3:40:26" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Toolkit.Content\ApplicationBar.Select.png" archivePath="Toolkit.Content\ApplicationBar.Select.png" lastWriteTime="04/06/2013 3:40:26" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="07/06/2013 3:50:15" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Release\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="25/05/2013 13:28:49" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="25/05/2013 13:28:49" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\packages\WPtoolkit.4.2012.10.30\lib\wp8\Microsoft.Phone.Controls.Toolkit.dll" archivePath="Microsoft.Phone.Controls.Toolkit.dll" lastWriteTime="04/06/2013 3:40:26" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\packages\NdefLibrary.1.0.0.0\lib\portable-win+net45+wp80\NdefLibrary.dll" archivePath="NdefLibrary.dll" lastWriteTime="01/06/2013 11:35:14" />
+  <file source="C:\Users\víctor\SkyDrive\Proyectos\NFCBattleShip\NFCBattleShip\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="03/06/2013 23:54:49" />
+</xapCache>
